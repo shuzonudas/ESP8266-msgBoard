@@ -5,7 +5,7 @@
 #include <ESP8266WebServer.h>
 
 const char* ssid = "TPG DA33";
-const char* pass = "abcd1991";
+const char* pass = "1234567890";
 
 // For the Adafruit shield, these are the default.
 #define TFT_DC D1
